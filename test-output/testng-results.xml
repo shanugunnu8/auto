@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="71745" started-at="2020-04-06T07:17:07Z" finished-at="2020-04-06T07:18:19Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="71745" started-at="2020-04-06T07:17:07Z" finished-at="2020-04-06T07:18:19Z">
+      <class name="com.yo.qa.testcases.RegistrationPageTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.yo.qa.testcases.RegistrationPageTest@61832929]" name="setup" is-config="true" duration-ms="18640" started-at="2020-04-06T12:47:08Z" finished-at="2020-04-06T12:47:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="registrationtest()[pri:1, instance:com.yo.qa.testcases.RegistrationPageTest@61832929]" name="registrationtest" duration-ms="10019" started-at="2020-04-06T12:47:27Z" finished-at="2020-04-06T12:47:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registrationtest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.yo.qa.testcases.RegistrationPageTest@61832929]" name="tearDown" is-config="true" duration-ms="1565" started-at="2020-04-06T12:47:37Z" finished-at="2020-04-06T12:47:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.yo.qa.testcases.RegistrationPageTest@61832929]" name="setup" is-config="true" duration-ms="14732" started-at="2020-04-06T12:47:39Z" finished-at="2020-04-06T12:47:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="refreshfunction()[pri:2, instance:com.yo.qa.testcases.RegistrationPageTest@61832929]" name="refreshfunction" duration-ms="8323" started-at="2020-04-06T12:47:53Z" finished-at="2020-04-06T12:48:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- refreshfunction -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.yo.qa.testcases.RegistrationPageTest@61832929]" name="tearDown" is-config="true" duration-ms="1161" started-at="2020-04-06T12:48:02Z" finished-at="2020-04-06T12:48:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.yo.qa.testcases.RegistrationPageTest@61832929]" name="setup" is-config="true" duration-ms="14991" started-at="2020-04-06T12:48:03Z" finished-at="2020-04-06T12:48:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="registrationPageTitleTest()[pri:3, instance:com.yo.qa.testcases.RegistrationPageTest@61832929]" name="registrationPageTitleTest" duration-ms="23" started-at="2020-04-06T12:48:18Z" finished-at="2020-04-06T12:48:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registrationPageTitleTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.yo.qa.testcases.RegistrationPageTest@61832929]" name="tearDown" is-config="true" duration-ms="1376" started-at="2020-04-06T12:48:18Z" finished-at="2020-04-06T12:48:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.yo.qa.testcases.RegistrationPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
