@@ -57,6 +57,7 @@ public void registrationPageTitleTest()
 @AfterMethod
 public void tearDown()
 {
+    System.out.println("hello");
 	driver.quit();
 }
 	
