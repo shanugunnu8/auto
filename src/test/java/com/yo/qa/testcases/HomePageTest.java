@@ -43,6 +43,7 @@ public class HomePageTest extends TestBase implements DLocators
 	{
 		String title = homepage.homePageTitle();
 		Assert.assertEquals(title, "Index");
+		System.out.println("Hello");
 	}
 	
 	
